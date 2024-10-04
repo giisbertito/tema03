@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<minecraftItems lang="es">
+    <item>
+        <id>minecraft_arrow</id>
+        <name>Flecha</name>
+        <type>Munición</type>
+        <rarity>Común</rarity>
+        <damage>4</damage>
+        <description>Utilizada con arco para atacar</description>
+        <crafteable>true</crafteable>
+        <materials>
+            <material>Pluma</material>
+            <material>Pedernal</material>
+            <material>Palo</material>
+        </materials>
+    </item>
+    <item>
+        <id>minecraft_piston</id>
+        <name>Pistón</name>
+        <type>bloque</type>
+        <rarity>Común</rarity>
+        <damage>Mecanismo</damage>
+        <description>Bloque utilizado para empujar bloques</description>
+        <crafteable>true</crafteable>
+        <materials>
+            <material>Madera</material>
+            <material>Piedra</material>
+            <material>Hierro</material>
+            <material>Redstone</material>
+        </materials>
+    </item>
+    <item>
+        <id>minecraft_cake</id>
+        <name>Tarta</name>
+        <type>bloque</type>
+        <rarity>Común</rarity>
+        <damage>Comida</damage>
+        <description>Bloque de tarta comestible</description>
+        <crafteable>true</crafteable>
+        <materials>
+            <material>Cubo de leche</material>
+            <material>Azúcar</material>
+            <material>Trigo</material>
+            <material>Huevo</material>
+        </materials>
+    </item>
+    <item>
+        <id>minecraft_diamond_sword</id>
+        <name>Espada de Diamante</name>
+        <type>arma</type>
+        <rarity>Diamante</rarity>
+        <damage>7</damage>
+        <description>Espada de diamante para atacar a los enemigos</description>
+        <enchantable>true</enchantable>
+        <enchantments>
+            <enchantment>Afilado V</enchantment>
+            <enchantment>Aspecto Igneo II</enchantment>
+        </enchantments>
+    </item>
+    <item>
+        <id>minecraft_iron_axe</id>
+        <name>Hacha de hierro</name>
+        <type>herramienta/arma</type>
+        <rarity>Hierro</rarity>
+        <damage>9</damage>
+        <description>Hacha de hierro para talar o para atacar</description>
+        <enchantable>true</enchantable>
+        <enchantments>
+            <enchantment>Eficiencia III</enchantment>
+            <enchantment>Irrompibilidad I</enchantment>
+        </enchantments>
+    </item>
+    <item>
+        <id>minecraft_gold_pickage</id>
+        <name>Pico de oro</name>
+        <type>herramienta</type>
+        <rarity>Oro</rarity>
+        <damage>Picar minerales</damage>
+        <description>Pico de oro utilizado para picar minerales</description>
+        <enchantable>true</enchantable>
+        <enchantments>
+            <enchantment>Toque de seda I</enchantment>
+            <enchantment>Fortuna II</enchantment>
+        </enchantments>
+    </item>
+</minecraftItems>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<minecraftItems lang="es">
+    <item>
+        <id>minecraft_diamond_sword</id>
+        <name>Espada de Diamante</name>
+        <type>arma</type>
+        <rarity>Diamante</rarity>
+        <damage>7</damage>
+        <description>Espada de diamante para atacar a los enemigos</description>
+    </item>
+    <item>
+        <id>minecraft_button</id>
+        <name>Botón</name>
+        <type>bloque</type>
+        <rarity>Madera</rarity>
+        <damage>Accionar mecanismos</damage>
+        <description>Boton de madera para accionar mecanismos</description>
+    </item>
+    <item>
+        <id>minecraft_lighter</id>
+        <name>Mechero</name>
+        <type>herramienta</type>
+        <rarity>común</rarity>
+        <damage>daño progresivo</damage>
+        <description>Mechero utilizado para prender objetos</description>
+    </item>
+    <item>
+        <id>minecraft_fishingrod</id>
+        <name>Caña de pescar</name>
+        <type>herramienta</type>
+        <rarity>raro</rarity>
+        <damage>Pescar</damage>
+        <description>Caña de pescar utilizada para pescar peces</description>
+    </item>
+    <item>
+        <id>minecraft_furnace</id>
+        <name>Horno</name>
+        <type>bloque</type>
+        <rarity>Piedra</rarity>
+        <damage>Cocinar</damage>
+        <description>Horno utilizado para cocinar comida o minerales</description>
+    </item>
+</minecraftItems>
