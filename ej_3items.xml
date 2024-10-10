@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<minecraftItems lang="es">
+    <item id="minecraft_cake" crafteable="true" enchantable="false" destruible="false">
+        <name>Tarta</name>
+        <type>bloque</type>
+        <rarity>Común</rarity>
+        <damage>Comida</damage>
+        <description>Bloque de tarta comestible</description>
+        <materials>
+            <material>Cubo de leche</material>
+            <material>Azúcar</material>
+            <material>Trigo</material>
+            <material>Huevo</material>
+        </materials>
+    </item>
+    <item id="minecraft_diamond_sword" crafteable="true" enchantable="true" destruible="true">
+        <id>minecraft_diamond_sword</id>
+        <name>Espada de Diamante</name>
+        <type>arma</type>
+        <rarity>Diamante</rarity>
+        <damage>7</damage>
+        <description>Espada de diamante para atacar a los enemigos</description>
+        <materials>
+            <material>Diamante</material>
+            <material>Palo</material>
+        </materials>
+        <enchantments>
+            <enchantment>Afilado V</enchantment>
+            <enchantment>Aspecto Igneo II</enchantment>
+        </enchantments>
+        <durabilidad>2000</durabilidad>
+    </item>
+    <item id="minecraft_iron_axe" crafteable="true" enchantable="true" destruible="true">
+        <name>Hacha de hierro</name>
+        <type>herramienta/arma</type>
+        <rarity>Hierro</rarity>
+        <damage>9</damage>
+        <description>Hacha de hierro para talar o para atacar</description>
+        <materials>
+            <material>Hierro</material>
+            <material>Palo</material>
+        </materials>
+        <enchantments>
+            <enchantment>Eficiencia III</enchantment>
+            <enchantment>Irrompibilidad I</enchantment>
+        </enchantments>
+        <durabilidad>1500</durabilidad>
+    </item>
+    <item id="minecraft_gold_pickage" crafteable="true" enchantable="true" destruible="true">
+        <name>Pico de oro</name>
+        <type>herramienta</type>
+        <rarity>Oro</rarity>
+        <damage>Picar minerales</damage>
+        <description>Pico de oro utilizado para picar minerales</description>
+        <materials>
+            <material>Oro</material>
+            <material>Palo</material>
+        </materials>
+        <enchantments>
+            <enchantment>Toque de seda I</enchantment>
+            <enchantment>Fortuna II</enchantment>
+        </enchantments>
+        <durabilidad>1000</durabilidad>
+    </item>
+</minecraftItems>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculum>
+    <datos_personales>
+        <nombre>Marc</nombre>
+        <apellidos>Mogort Gisbert</apellidos>
+        <telefono>605282809</telefono>
+        <direccion>Calle Ave del Paraiso 7</direccion>
+    </datos_personales>
+    <información_personal>Destaco por ser una persona dinámica y comprometida,
+     con habilidades para el trabajo en equipo y la resolución de problemas. 
+     Mi capacidad competitiva me impulsa a dar siempre lo mejor, tanto en el 
+     ámbito laboral como personal, buscando siempre la excelencia en cada 
+     tarea que realizo</información_personal>
+    <experiencia_laboral>
+        <trabajo>
+            <nombre_empresa>Ammos Denia</nombre_empresa>
+            <puesto>Camarero</puesto>
+            <fecha_ini>01/07/2021</fecha_ini>
+            <fehca_fin>08/09/2021</fehca_fin>
+        </trabajo>
+        <trabajo>
+            <nombre_empresa>Dialsur Cash and Carry</nombre_empresa>
+            <puesto>Reponedor</puesto>
+            <fecha_ini>01/07/2023</fecha_ini>
+            <fehca_fin>08/09/2023</fehca_fin>
+        </trabajo>
+        <trabajo>
+            <nombre_empresa>Movil Store</nombre_empresa>
+            <puesto>Dependiente</puesto>
+            <fecha_ini>08/07/2024</fecha_ini>
+            <fehca_fin>09/09/2024</fehca_fin>
+        </trabajo>
+    </experiencia_laboral>
+    <educacion>
+        <estudio>
+            <nombre_instituto>IES Historiador Chabas</nombre_instituto>
+            <nivel>ESO</nivel>
+            <fecha_ini>09/09/2017</fecha_ini>
+            <fehca_fin>23/06/2021</fehca_fin>
+        </estudio>
+        <estudio>
+            <nombre_instituto>IES Historiador Chabas</nombre_instituto>
+            <nivel>Ciclo Formativo Grado Medio SMX</nivel>
+            <fecha_ini>09/09/2021</fecha_ini>
+            <fehca_fin>23/06/2023</fehca_fin>
+        </estudio>
+        <estudio>
+            <nombre_instituto>IES Historiador Chabas</nombre_instituto>
+            <nivel>Ciclo Formativo Grado Superior DAM</nivel>
+            <fecha_ini>09/09/2023</fecha_ini>
+            <fehca_fin>23/06/2024</fehca_fin>
+        </estudio>
+    </educacion>
+</curriculum>
