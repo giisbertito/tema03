@@ -12,6 +12,10 @@
      ámbito laboral como personal, buscando siempre la excelencia en cada 
      tarea que realizo</informacion_personal>
     <experiencia_laboral>
+    <idiomas>
+        <idioma>ingles - Medio</idioma>
+        <idioma>español - Nativo</idioma>
+    </idiomas>
         <trabajo>
             <nombre_empresa>Ammos Denia</nombre_empresa>
             <puesto>Camarero</puesto>
