@@ -13,8 +13,18 @@
      tarea que realizo.
     </informacion_personal>
     <idiomas>
-        <idioma>ingles - Medio</idioma>
-        <idioma>español - Nativo</idioma>
+        <idioma>
+            <nombre>Ingles</nombre>
+            <nivel>Medio</nivel>
+        </idioma>
+        <idioma>
+            <nombre>Español</nombre>
+            <nivel>Nativo</nivel>
+        </idioma>
+        <idioma>
+            <nombre>Ruso</nombre>
+            <nivel>Nativo</nivel>
+        </idioma>
     </idiomas>
     <experiencia_laboral>
         <trabajo>
