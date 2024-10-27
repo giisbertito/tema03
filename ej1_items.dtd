@@ -1,0 +1,19 @@
+<!ELEMENT minecraftItems (item+)>
+<!ATTLIST minecraftItems lang CDATA #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT damage (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+
+<!ELEMENT item (name, type, damage?, description, materiales?, encantamientos?)>
+
+<!ATTLIST item id ID #REQUIRED
+               rareza (común | raro | legendario) #REQUIRED
+               crafteable (true | false) #REQUIRED
+               encantable (true | false) #REQUIRED>
+
+<!ELEMENT materiales (material+)>
+<!ELEMENT material (#PCDATA)>
+
+<!ELEMENT encantamientos (encantamiento+)>
+<!ELEMENT encantamiento (#PCDATA)>
