@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE partida SYSTEM "ej4_3senraya.dtd">
+<partida>
+    <jugadores>
+        <jugador id="j1">
+            <nombre>Ana</nombre>
+            <ficha>X</ficha>
+        </jugador>
+        <jugador id="j2">
+            <nombre>Carlos</nombre>
+            <ficha>O</ficha>
+        </jugador>
+    </jugadores>
+    <turnos>
+        <turno numero="1" jugador_id="j1">
+            <jugador>Ana</jugador>
+            <posicion>3</posicion>
+        </turno>
+        <turno numero="2" jugador_id="j2">
+            <jugador>Carlos</jugador>
+            <posicion>5</posicion>
+        </turno>
+        <turno numero="3" jugador_id="j1">
+            <jugador>Ana</jugador>
+            <posicion>1</posicion>
+        </turno>
+    </turnos>
+</partida>
