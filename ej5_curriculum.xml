@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE partida SYSTEM "ej5_curriculum.dtd">
+<curriculum_vitae>
+    <datos_personales>
+        <nombre>Marc Mogort</nombre>
+        <direccion>Avenida de las Americas</direccion>
+        <telefono>+34 600 123 456</telefono>
+        <email>marcguapo@gmail.com</email>
+    </datos_personales>
+    <experiencia>
+        <trabajo>
+            <empresa>Movil Store</empresa>
+            <puesto>Tecnico</puesto>
+            <fecha_inicio>02/2021</fecha_inicio>
+            <fecha_fin>06/2021</fecha_fin>
+            <descripcion>Reparacion de dispositivos moviles</descripcion>
+        </trabajo>
+        <trabajo>
+            <empresa>Mercadona</empresa>
+            <puesto>Reponedor</puesto>
+            <fecha_inicio>07/2020</fecha_inicio>
+            <fecha_fin>08/2020</fecha_fin>
+            <descripcion>Reponedor en tienda</descripcion>
+        </trabajo>
+    </experiencia>
+    <educacion>
+        <titulo>
+            <nombre>Grado en Ingeniería Informática</nombre>
+            <institucion>Universidad de Valencia</institucion>
+            <fecha_graduacion>06/2023</fecha_graduacion>
+        </titulo>
+    </educacion>
+    <habilidades>
+        <habilidad>Java</habilidad>
+        <habilidad>Reparacion Movil</habilidad>
+        <habilidad>HTML/CSS</habilidad>
+    </habilidades>
+</curriculum_vitae>
