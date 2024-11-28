@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE facturas SYSTEM "facturas.dtd">
+<!DOCTYPE facturas SYSTEM "ej7_facturas.dtd">
 <facturas>
     <factura numero="F001">
         <membrete>
