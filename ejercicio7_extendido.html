@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>ejercicio 7</title>
+</head>
+    <body>
+        <h2>Formulario</h2>
+        <form action="ejercicio7_extendido.html" method="post">
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" name="nombre"><br><br>
+
+            <label for="correo">Correo electrónico:</label>
+            <input type="email" id="correo" name="correo"><br><br>
+
+            <label for="url">URL:</label>
+            <input type="url" id="url" name="url"><br><br>
+
+            <label for="fecha">Fecha:</label>
+            <input type="date" id="fecha" name="fecha"><br><br>
+
+            <label>Género:</label><br>
+            <input type="radio" id="masculino" name="genero">
+            <label for="masculino">Masculino</label><br>
+            <input type="radio" id="femenino" name="genero">
+            <label for="femenino">Femenino</label><br>
+            <input type="radio" id="helicoptero" name="genero">
+            <label for="helicoptero">helicoptero</label><br><br>
+
+            <label>Número de hijos:</label><br>
+            <input type="radio" name="hijos" value="ninguno"> Ninguno<br>
+            <input type="radio" name="hijos" value="uno"> Uno<br>
+            <input type="radio" name="hijos" value="dos"> Dos<br>
+            <input type="radio" name="hijos" value="mas"> Más de 2<br><br>
+
+            <label for="numero">Número (min -10, max 10):</label>
+            <input type="number" id="numero" name="numero" min="-10" max="10"><br><br>
+
+            <label for="telefono">Teléfono:</label>
+            <input type="tel" id="telefono" name="telefono"><br><br>
+
+            <label for="busqueda">Término de búsqueda:</label>
+            <input type="search" id="busqueda" name="busqueda"><br><br>
+
+            <label for="color">Color favorito:</label>
+            <input type="color" id="color" name="color"><br><br>
+
+            <input type="submit" value="Enviar">
+        </form>
+    </body>
+</html>
